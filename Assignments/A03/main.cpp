@@ -8,13 +8,14 @@
 *  Semester:         Spring 2023
 * 
 *  Description:
-*        
-*        
+*        Comment code given following the appropriate format
+*   
 *  Usage: 
 *       N/A
 *
 *  Files:            
-*       main.cpp    
+*       main.cpp 
+*
 *****************************************************************************/
 
 #include <iostream>
