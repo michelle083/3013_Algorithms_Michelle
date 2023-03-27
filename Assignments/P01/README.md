@@ -9,8 +9,12 @@ This program will compare the effeciently of two different data structures, AVL 
 |   #   | File     | Description                      |
 | :---: | -------- | -------------------------------- |
 |   1   | [banner.txt](https://github.com/michelle083/3013_Algorithms_Michelle/blob/main/Assignments/P01/banner.txt) | Banner file  |
-|   2   | [main.cpp](https://github.com/michelle083/3013_Algorithms_Michelle/blob/main/Assignments/P01/main.cpp) | Main driver of my list program . |
-
+|   2   | [main.cpp](https://github.com/michelle083/3013_Algorithms_Michelle/blob/main/Assignments/P01/main.cpp) | Main driver of my list program |
+|   3   | [timer.hpp](https://github.com/michelle083/3013_Algorithms_Michelle/blob/main/Assignments/P01/timer.hpp)    |     |
+|   4   | [SLL.hpp](https://github.com/michelle083/3013_Algorithms_Michelle/blob/main/Assignments/P01/SLL.hpp)    |     |
+|   6   | [json.hpp](https://github.com/michelle083/3013_Algorithms_Michelle/blob/main/Assignments/P01/json.hpp)  |     |
+|   6   | [random_person_data_01.json](https://github.com/michelle083/3013_Algorithms_Michelle/blob/main/Assignments/P01/random_person_data_01.json)  |   |
+|   7   | [output.txt](https://github.com/michelle083/3013_Algorithms_Michelle/blob/main/Assignments/P01/output.txt) | Output file |
 
 ### Instructions
 
