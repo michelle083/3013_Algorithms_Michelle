@@ -1,4 +1,4 @@
-## A04 - Presentations
+## A04 - Presentation
 ### Michelle Orru
 ### Description: 
 
@@ -15,8 +15,12 @@
 
 Presentation covers the following:
 
-  -Name of the algorithm
-  -Category (greedy, recursive, brute force, etc.)
-  -General description of what the algorithm does or its purpose
-  -A walkthrough describing the steps in the algorithm
-  -The time and space complexity of the algorithm
+>Name of the algorithm
+
+>Category (greedy, recursive, brute force, etc.)
+
+>General description of what the algorithm does or its purpose
+
+>A walkthrough describing the steps in the algorithm
+
+>The time and space complexity of the algorithm
