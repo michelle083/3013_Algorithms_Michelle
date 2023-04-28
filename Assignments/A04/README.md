@@ -1,6 +1,6 @@
 ## A04 - Presentation
 ### Michelle Orru
-### Description: 
+### Description: Shannon Fano Algorithm
 
 
 
