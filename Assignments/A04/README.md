@@ -9,7 +9,7 @@
 |   #   | File     | Description                      |
 | :---: | -------- | -------------------------------- |
 |   1   | [banner.txt](https://github.com/michelle083/3013_Algorithms_Michelle/blob/main/Assignments/A04/banner.txt) | Banner file  |
-
+|   2   | [presentation link](https://www.canva.com/design/DAFggPqXf94/VbyBKVyroja2MhaLTZGp3Q/edit?utm_content=DAFggPqXf94&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  |   |
 
 ### Instructions
 
