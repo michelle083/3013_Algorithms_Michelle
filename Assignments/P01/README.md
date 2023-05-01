@@ -14,8 +14,8 @@ This program will compare the effeciently of two different data structures, AVL 
 |   4   | [methods.hpp](https://github.com/michelle083/3013_Algorithms_Michelle/blob/main/Assignments/P01/methods.hpp)    |  Contains the BST and LL functions  |
 |   5   | [person.hpp](https://github.com/michelle083/3013_Algorithms_Michelle/blob/main/Assignments/P01/person.hpp)  | Create person and assign data |
 |   6   | [json.hpp](https://github.com/michelle083/3013_Algorithms_Michelle/blob/main/Assignments/P01/json.hpp)  | Json program  |
-|   6   | [random_person_data_01.json](https://github.com/michelle083/3013_Algorithms_Michelle/blob/main/Assignments/P01/random_person_data_01.json)  | Input file |
-|   7   | [output.txt](https://github.com/michelle083/3013_Algorithms_Michelle/blob/main/Assignments/P01/output.txt) | Output file |
+|   7   | [random_person_data_01.json](https://github.com/michelle083/3013_Algorithms_Michelle/blob/main/Assignments/P01/random_person_data_01.json)  | Input file |
+|   8   | [output.txt](https://github.com/michelle083/3013_Algorithms_Michelle/blob/main/Assignments/P01/output.txt) | Output file |
 
 ### Instructions
 
