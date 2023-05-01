@@ -1,0 +1,52 @@
+Select based in which key you wants to search:
+0.Id
+1.First Name
+2.Last Name
+3.Email
+4.Address
+5.City
+6.State
+7.Coordinates
+8.Car
+9.Favorite Movie
+10.Pet
+11.Job Title
+12.Phone number
+13.Exit
+Enter Your Choice:0
+
+Choice is 0
+Enter ID number to be searched:5
+
+Visited 5 nodes in BST.
+Completed search in BST in 2.486e-05 seconds
+Compared 5 Nodes.
+Completed search in Linked List in 0.00015966 seconds 
+
+Found String  in Farrand's file
+
+Details of the person are
+id : 5
+first_name : Farrand
+last_name : Faull
+email: ffaull4@eepurl.com
+address: 57792 Bluejay Drive
+city: Port Charlotte
+state: FL
+latitude: 27.0228
+longitude: -82.1108
+car: Hyundai
+car_model: Azera
+car_color: Purple
+favorite_movie: The Hire: Follow, The
+pet: Moccasin, water
+job_title: Civil Engineer
+phone_number: (941) 9602357
+stocks: CLDC, JCTCF, FBHS, WRB, SBLKL, BDSI, RESN, 
+
+Also found in Linked List
+
+Please select an option below: 
+1) New search
+2) Exit
+Selection : 2
