@@ -1,3 +1,25 @@
+/*************************************************************************
+ *
+ *  Author:           Michelle Orru
+ *  Label:            P01
+ *  Title:            Database Indexes
+ *  Course:           CMPS 3013
+ *  Semester:         Spring 2023
+ *
+ *  Description:
+ *       Using random_person_data we created using Mockaroo, build 1 or more 
+ *       data that can be searched using specified keys in the random data.
+ *
+ *  Files:
+ *       main.cpp                       : main driver program
+ *       json.hpp                       : file containing json implementations
+ *       timer.hpp                      : implementations for timer
+ *       methods.hpp                    : file with BST and LL implementations
+ *       person.hpp                     : file initializing a person
+ *       random_person_data_01.json     : input file
+ *
+ *************************************************************************/
+
 // importing required libraries
 #include "json.hpp"
 #include "methods.hpp"
